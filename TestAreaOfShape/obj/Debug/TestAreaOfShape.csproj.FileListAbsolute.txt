@@ -1,0 +1,9 @@
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\TestAreaOfShape\bin\Debug\TestAreaOfShape.dll
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\TestAreaOfShape\bin\Debug\TestAreaOfShape.pdb
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\TestAreaOfShape\bin\Debug\Calculate_area_testing.exe
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\TestAreaOfShape\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\TestAreaOfShape\bin\Debug\Calculate_area_testing.pdb
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\TestAreaOfShape\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\TestAreaOfShape\obj\Debug\TestAreaOfShape.csprojResolveAssemblyReference.cache
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\TestAreaOfShape\obj\Debug\TestAreaOfShape.dll
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\TestAreaOfShape\obj\Debug\TestAreaOfShape.pdb

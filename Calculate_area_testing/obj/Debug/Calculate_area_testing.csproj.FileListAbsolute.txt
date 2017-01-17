@@ -1,0 +1,6 @@
+c:\users\veerecha\documents\visual studio 2015\Projects\Calculate_area_testing\Calculate_area_testing\bin\Debug\Calculate_area_testing.exe.config
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\Calculate_area_testing\bin\Debug\Calculate_area_testing.exe
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\Calculate_area_testing\bin\Debug\Calculate_area_testing.pdb
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\Calculate_area_testing\obj\Debug\Calculate_area_testing.exe
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\Calculate_area_testing\obj\Debug\Calculate_area_testing.pdb
+C:\Users\veerecha\Documents\Visual Studio 2015\Projects\Calculate_area_testing\Calculate_area_testing\obj\Debug\Calculate_area_testing.csprojResolveAssemblyReference.cache
